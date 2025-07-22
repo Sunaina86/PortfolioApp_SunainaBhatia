@@ -1,5 +1,3 @@
-
-🎯 A responsive single-page portfolio web app built with HTML, CSS, and JavaScript. Developed to demonstrate frontend logic, DOM manipulation, and UI design.
 # 💼 Developer Portfolio - Sunaina Bhatia
 
 This is a personal portfolio website to showcase my web development projects, technical skills, and contact information. Built using **HTML, CSS (PicoCSS)**, and **JavaScript**, this site reflects my learning journey and full-stack development experience from **Neog Camp**.
